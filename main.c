@@ -1,4 +1,4 @@
-//
+//  Best main file ever....
 //  main.c
 //  mcs
 //
@@ -13,6 +13,7 @@ int main()
     // insert code here......
     //insert here
     printf("Hello, World!\n");
+    // GPT
     //Hey whats up...
     return 0;
 }
